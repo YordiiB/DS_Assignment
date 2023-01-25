@@ -3,7 +3,7 @@ Part A
 1) I have compiled the programs and understand what they do,how they function and operate.
    2) I have downloaded netserv.c and netclient.c from the link provided and after understanding the code I runned them in different terminals in ubuntu. When I run netserv.c it says "Server is alive and waiting for socket connection from client" and on another terminal when I run netclient.c it says "Client is alive and establishing socket connection" for a while and then say " Error establishing communications: connection refused" that means the connection between client and server couldn't be established (they couldn't connect). This is because of the ip address that is provided in netclient '132.161.33.175'
   
-   3) The when I run ifconfig command it shows the ip address,mask,inet address,broadcast where I was working on my computer.
+ 3) The when I run ifconfig command it shows the ip address,mask,inet address,broadcast where I was working on my computer.
   
   4) After that if I gave my computer addres to the client then the server and the client found on the same host so they communicate quikly.
 
