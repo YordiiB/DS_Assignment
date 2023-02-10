@@ -54,6 +54,7 @@ int main()
             return 3;
         }
 
+        
         // receive a reply and print it
         // clear the answer by filling null, it might have previously received data
         char answer[BUFLEN] = {};
