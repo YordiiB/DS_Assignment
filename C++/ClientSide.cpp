@@ -17,7 +17,7 @@ int main()
 
     // initialise winsock
     WSADATA ws;
-    printf("Initialising Winsock...");
+    printf("Initialising Winsock..."); //will print out initialising winsock
     if (WSAStartup(MAKEWORD(2, 2), &ws) != 0)
     {
         printf("Failed. Error Code: %d", WSAGetLastError());
