@@ -1,4 +1,6 @@
 # DS_Assignment
+Name: - Yordanos Bifa
+ID :- 1102999
 Part A 
 1) I have compiled the programs and understand what they do,how they function and operate.
 
